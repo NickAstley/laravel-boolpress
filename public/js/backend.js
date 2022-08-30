@@ -49664,9 +49664,9 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! E:\Boolean\Repos\laravel-api\resources\js\backend.js */"./resources/js/backend.js");
-__webpack_require__(/*! E:\Boolean\Repos\laravel-api\resources\sass\backend.scss */"./resources/sass/backend.scss");
-module.exports = __webpack_require__(/*! E:\Boolean\Repos\laravel-api\resources\sass\frontend.scss */"./resources/sass/frontend.scss");
+__webpack_require__(/*! E:\Boolean\Repos\laravel-boolpress\resources\js\backend.js */"./resources/js/backend.js");
+__webpack_require__(/*! E:\Boolean\Repos\laravel-boolpress\resources\sass\backend.scss */"./resources/sass/backend.scss");
+module.exports = __webpack_require__(/*! E:\Boolean\Repos\laravel-boolpress\resources\sass\frontend.scss */"./resources/sass/frontend.scss");
 
 
 /***/ })

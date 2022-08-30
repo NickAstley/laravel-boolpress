@@ -2,15 +2,14 @@
     <div>
         <Navbar></Navbar>
         <div class="container">
-            <PostList></PostList>
+            <router-view></router-view>
         </div>
     </div>
 </template>
 
 <script>
     import Navbar from "./components/Navbar.vue";
-    import PostList from "./components/PostList.vue";
     export default {
-        components: { Navbar, PostList }
+        components: { Navbar }
     }
 </script>
